@@ -27,7 +27,7 @@
 | Rust | [wasm-rust](https://github.com/ReportsWeb/wasm-rust) | crates.io [`reports-web`](https://crates.io/crates/reports-web) | 公開中 |
 | Pure Java | java | Maven Central | 準備中 |
 | Pure Python | — | 製品の配布 ZIP（SDK 同梱） | ZIP で提供 |
-| WPF (.NET) | wpf | NuGet | 準備中 |
+| WPF (.NET) | [wpf](https://github.com/ReportsWeb/wpf) | NuGet [`Reports.Web.Wpf`](https://www.nuget.org/packages/Reports.Web.Wpf) | 公開中 |
 
 帳票エンジン：[`ghcr.io/reportsweb/engine`](https://github.com/ReportsWeb/engine)（Docker イメージ）
 
