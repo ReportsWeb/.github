@@ -20,7 +20,7 @@
 |---|---|---|---|
 | Node.js / TypeScript | [wasm-node](https://github.com/ReportsWeb/wasm-node) | npm [`@pao-at-office/reports-web`](https://www.npmjs.com/package/@pao-at-office/reports-web) | 公開中 |
 | PHP | [wasm-php](https://github.com/ReportsWeb/wasm-php) | Composer `paoatoffice/reports-web`（Packagist 登録待ち） | 公開中 |
-| Java | wasm-java | Maven Central | 準備中 |
+| Java | [wasm-java](https://github.com/ReportsWeb/wasm-java) | Maven Central [`ac.pao:reports-web`](https://central.sonatype.com/artifact/ac.pao/reports-web) | 公開中 |
 | .NET (C#) | [wasm-dotnet](https://github.com/ReportsWeb/wasm-dotnet) | NuGet [`Reports.Web`](https://www.nuget.org/packages/Reports.Web) | 公開中 |
 | Go | [wasm-go](https://github.com/ReportsWeb/wasm-go) | Go module [`github.com/ReportsWeb/wasm-go/reportsweb`](https://pkg.go.dev/github.com/ReportsWeb/wasm-go/reportsweb) | 公開中 |
 | Ruby | [wasm-ruby](https://github.com/ReportsWeb/wasm-ruby) | RubyGems [`reports_web`](https://rubygems.org/gems/reports_web) | 公開中 |
