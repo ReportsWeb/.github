@@ -22,7 +22,7 @@
 | PHP | wasm-php | Packagist | 準備中 |
 | Java | wasm-java | Maven Central | 準備中 |
 | .NET (C#) | [wasm-dotnet](https://github.com/ReportsWeb/wasm-dotnet) | NuGet [`Reports.Web`](https://www.nuget.org/packages/Reports.Web) | 公開中 |
-| Go | wasm-go | Go module | 準備中 |
+| Go | [wasm-go](https://github.com/ReportsWeb/wasm-go) | Go module [`github.com/ReportsWeb/wasm-go/reportsweb`](https://pkg.go.dev/github.com/ReportsWeb/wasm-go/reportsweb) | 公開中 |
 | Ruby | wasm-ruby | RubyGems | 準備中 |
 | Rust | wasm-rust | crates.io | 準備中 |
 | Pure Java | java | Maven Central | 準備中 |
