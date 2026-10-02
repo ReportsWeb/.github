@@ -14,7 +14,7 @@
 
 ### サンプルとパッケージ
 
-各リポジトリは、オンラインデモと同じソースです。Docker だけで、すぐに動かせます。
+各リポジトリは、製品の配布 ZIP に入っているサンプルです。Docker だけで、すぐに動かせます。
 
 | 言語 | サンプル | パッケージ | 状態 |
 |---|---|---|---|
@@ -26,7 +26,7 @@
 | Ruby | wasm-ruby | RubyGems | 準備中 |
 | Rust | wasm-rust | crates.io | 準備中 |
 | Pure Java | java | Maven Central | 準備中 |
-| Pure Python | python | PyPI | 準備中 |
+| Pure Python | — | 製品の配布 ZIP（SDK 同梱） | ZIP で提供 |
 | WPF (.NET) | wpf | NuGet | 準備中 |
 
 帳票エンジン：[`ghcr.io/reportsweb/engine`](https://github.com/ReportsWeb/engine)（Docker イメージ）
