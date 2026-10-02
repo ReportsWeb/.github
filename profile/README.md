@@ -24,7 +24,7 @@
 | .NET (C#) | [wasm-dotnet](https://github.com/ReportsWeb/wasm-dotnet) | NuGet [`Reports.Web`](https://www.nuget.org/packages/Reports.Web) | 公開中 |
 | Go | [wasm-go](https://github.com/ReportsWeb/wasm-go) | Go module [`github.com/ReportsWeb/wasm-go/reportsweb`](https://pkg.go.dev/github.com/ReportsWeb/wasm-go/reportsweb) | 公開中 |
 | Ruby | [wasm-ruby](https://github.com/ReportsWeb/wasm-ruby) | RubyGems [`reports_web`](https://rubygems.org/gems/reports_web) | 公開中 |
-| Rust | wasm-rust | crates.io | 準備中 |
+| Rust | [wasm-rust](https://github.com/ReportsWeb/wasm-rust) | crates.io [`reports-web`](https://crates.io/crates/reports-web) | 公開中 |
 | Pure Java | java | Maven Central | 準備中 |
 | Pure Python | — | 製品の配布 ZIP（SDK 同梱） | ZIP で提供 |
 | WPF (.NET) | wpf | NuGet | 準備中 |
