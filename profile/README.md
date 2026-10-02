@@ -19,7 +19,7 @@
 | 言語 | サンプル | パッケージ | 状態 |
 |---|---|---|---|
 | Node.js / TypeScript | [wasm-node](https://github.com/ReportsWeb/wasm-node) | npm [`@pao-at-office/reports-web`](https://www.npmjs.com/package/@pao-at-office/reports-web) | 公開中 |
-| PHP | wasm-php | Packagist | 準備中 |
+| PHP | [wasm-php](https://github.com/ReportsWeb/wasm-php) | Composer `paoatoffice/reports-web`（Packagist 登録待ち） | 公開中 |
 | Java | wasm-java | Maven Central | 準備中 |
 | .NET (C#) | [wasm-dotnet](https://github.com/ReportsWeb/wasm-dotnet) | NuGet [`Reports.Web`](https://www.nuget.org/packages/Reports.Web) | 公開中 |
 | Go | [wasm-go](https://github.com/ReportsWeb/wasm-go) | Go module [`github.com/ReportsWeb/wasm-go/reportsweb`](https://pkg.go.dev/github.com/ReportsWeb/wasm-go/reportsweb) | 公開中 |
